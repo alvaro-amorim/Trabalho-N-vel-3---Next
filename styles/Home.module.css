@@ -1,0 +1,15 @@
+.container {
+  min-width: 100%;
+}
+
+.main {
+  padding: 20px;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 4rem;
+  margin: 1em auto;
+}
